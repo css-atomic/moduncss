@@ -1,0 +1,57 @@
+// Vitest Snapshot v1
+
+exports[`happy case > happy case 1`] = `
+".a {
+    display: flex
+}
+.b {
+    margin-left: var(--spacing-base)
+}
+.c {
+    flex-direction: column
+}
+.d {
+    flex: 1
+}
+.e {
+    width: 100%
+}
+.f {
+    margin-bottom: 0
+}
+.g {
+    margin-left: 0
+}
+.h {
+    margin-right: 0
+}
+.i {
+    margin-top: var(--spacing-base)
+}
+.j {
+    align-items: center
+}
+.k {
+    margin-bottom: var(--spacing-base)
+}
+.l {
+    width: 48px
+}
+.m {
+    height: 48px
+}
+.n {
+    border: 1px solid var(--gray-1)
+}
+.o {
+    border-radius: 50%
+}
+.p {
+    margin-right: 10px
+}
+.q {
+    overflow: hidden
+}
+
+"
+`;

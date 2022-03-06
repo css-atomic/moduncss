@@ -1,0 +1,31 @@
+{
+  "name": "@moduncss/postcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build:watch": "tsc --watch",
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.isequal": "^4.5.0",
+    "lodash.uniqby": "^4.7.0",
+    "parse-css-font": "^4.0.0",
+    "parse-css-sides": "^3.0.1",
+    "postcss": "^8.4.7",
+    "postcss-resolve-prop": "^3.1.0",
+    "postcss-selector-parser": "^6.0.9",
+    "pretty-bytes": "^6.0.0",
+    "shorthash": "^0.0.2"
+  },
+  "devDependencies": {
+    "@types/lodash.isequal": "^4.5.5",
+    "playwright-core": "^1.19.2",
+    "replace-classes": "^1.0.0",
+    "vitest": "^0.5.9"
+  }
+}
