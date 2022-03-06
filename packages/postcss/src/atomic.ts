@@ -2,13 +2,13 @@ import * as postcss from 'postcss'
 import { createRule, getContext } from './utils'
 import isEqual from 'lodash.isequal'
 
+// start from 10 ("a" symbol)
 let declId = 10
 
 export class AtomicCSSCore {
 
   newRoot = postcss.parse('')
 
-  // start from 10 (a symbol)
 
   rules = new Map<string, string>()
   atomicMap = new Map<string, Array<string>>()
