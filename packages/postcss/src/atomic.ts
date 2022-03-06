@@ -19,14 +19,15 @@ export class AtomicCSSCore {
       const contextAtRules = context.filter((node): node is postcss.AtRule => node.type === 'atrule')
       const [className, ...pseudos] = context
         .filter((node): node is postcss.Rule => node.type === 'rule')[0]
-        .selector.split(/::|:/)
+        .selector
+        .split(/::|:/)
 
       const key = createRule(decl, pseudos.join(''), contextAtRules).toString()
 
       if (!this.rules.has(key)) {
         const shortClassName = (declId++).toString(32)
         const newClassName = Number.isInteger(+shortClassName[0]) ? `_${shortClassName}` : shortClassName
-        const atomicClassName = `.${newClassName}${pseudos.reduce((pseudos, pseudo) => `${pseudos}:${pseudo}`, '')}`
+        const atomicClassName = `.${newClassName}${pseudos.join(':')}`
 
         this.newRoot.push(createRule(decl, atomicClassName, contextAtRules))
         this.rules.set(key, newClassName)

@@ -6,7 +6,6 @@ type Options = {
   onResult?(map: Record<string, string>)
 }
 
-
 export default (opts?: Options): postcss.Plugin => {
   return {
     postcssPlugin: 'moduncss',

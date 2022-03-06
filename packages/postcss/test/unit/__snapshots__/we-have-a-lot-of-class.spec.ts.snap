@@ -1,0 +1,3004 @@
+// Vitest Snapshot v1
+
+exports[`a lot of classes > happy case 1`] = `
+".a {
+    width: 0
+}
+.b {
+    width: 1
+}
+.c {
+    width: 2
+}
+.d {
+    width: 3
+}
+.e {
+    width: 4
+}
+.f {
+    width: 5
+}
+.g {
+    width: 6
+}
+.h {
+    width: 7
+}
+.i {
+    width: 8
+}
+.j {
+    width: 9
+}
+.k {
+    width: 10
+}
+.l {
+    width: 11
+}
+.m {
+    width: 12
+}
+.n {
+    width: 13
+}
+.o {
+    width: 14
+}
+.p {
+    width: 15
+}
+.q {
+    width: 16
+}
+.r {
+    width: 17
+}
+.s {
+    width: 18
+}
+.t {
+    width: 19
+}
+.u {
+    width: 20
+}
+.v {
+    width: 21
+}
+._10 {
+    width: 22
+}
+._11 {
+    width: 23
+}
+._12 {
+    width: 24
+}
+._13 {
+    width: 25
+}
+._14 {
+    width: 26
+}
+._15 {
+    width: 27
+}
+._16 {
+    width: 28
+}
+._17 {
+    width: 29
+}
+._18 {
+    width: 30
+}
+._19 {
+    width: 31
+}
+._1a {
+    width: 32
+}
+._1b {
+    width: 33
+}
+._1c {
+    width: 34
+}
+._1d {
+    width: 35
+}
+._1e {
+    width: 36
+}
+._1f {
+    width: 37
+}
+._1g {
+    width: 38
+}
+._1h {
+    width: 39
+}
+._1i {
+    width: 40
+}
+._1j {
+    width: 41
+}
+._1k {
+    width: 42
+}
+._1l {
+    width: 43
+}
+._1m {
+    width: 44
+}
+._1n {
+    width: 45
+}
+._1o {
+    width: 46
+}
+._1p {
+    width: 47
+}
+._1q {
+    width: 48
+}
+._1r {
+    width: 49
+}
+._1s {
+    width: 50
+}
+._1t {
+    width: 51
+}
+._1u {
+    width: 52
+}
+._1v {
+    width: 53
+}
+._20 {
+    width: 54
+}
+._21 {
+    width: 55
+}
+._22 {
+    width: 56
+}
+._23 {
+    width: 57
+}
+._24 {
+    width: 58
+}
+._25 {
+    width: 59
+}
+._26 {
+    width: 60
+}
+._27 {
+    width: 61
+}
+._28 {
+    width: 62
+}
+._29 {
+    width: 63
+}
+._2a {
+    width: 64
+}
+._2b {
+    width: 65
+}
+._2c {
+    width: 66
+}
+._2d {
+    width: 67
+}
+._2e {
+    width: 68
+}
+._2f {
+    width: 69
+}
+._2g {
+    width: 70
+}
+._2h {
+    width: 71
+}
+._2i {
+    width: 72
+}
+._2j {
+    width: 73
+}
+._2k {
+    width: 74
+}
+._2l {
+    width: 75
+}
+._2m {
+    width: 76
+}
+._2n {
+    width: 77
+}
+._2o {
+    width: 78
+}
+._2p {
+    width: 79
+}
+._2q {
+    width: 80
+}
+._2r {
+    width: 81
+}
+._2s {
+    width: 82
+}
+._2t {
+    width: 83
+}
+._2u {
+    width: 84
+}
+._2v {
+    width: 85
+}
+._30 {
+    width: 86
+}
+._31 {
+    width: 87
+}
+._32 {
+    width: 88
+}
+._33 {
+    width: 89
+}
+._34 {
+    width: 90
+}
+._35 {
+    width: 91
+}
+._36 {
+    width: 92
+}
+._37 {
+    width: 93
+}
+._38 {
+    width: 94
+}
+._39 {
+    width: 95
+}
+._3a {
+    width: 96
+}
+._3b {
+    width: 97
+}
+._3c {
+    width: 98
+}
+._3d {
+    width: 99
+}
+._3e {
+    width: 100
+}
+._3f {
+    width: 101
+}
+._3g {
+    width: 102
+}
+._3h {
+    width: 103
+}
+._3i {
+    width: 104
+}
+._3j {
+    width: 105
+}
+._3k {
+    width: 106
+}
+._3l {
+    width: 107
+}
+._3m {
+    width: 108
+}
+._3n {
+    width: 109
+}
+._3o {
+    width: 110
+}
+._3p {
+    width: 111
+}
+._3q {
+    width: 112
+}
+._3r {
+    width: 113
+}
+._3s {
+    width: 114
+}
+._3t {
+    width: 115
+}
+._3u {
+    width: 116
+}
+._3v {
+    width: 117
+}
+._40 {
+    width: 118
+}
+._41 {
+    width: 119
+}
+._42 {
+    width: 120
+}
+._43 {
+    width: 121
+}
+._44 {
+    width: 122
+}
+._45 {
+    width: 123
+}
+._46 {
+    width: 124
+}
+._47 {
+    width: 125
+}
+._48 {
+    width: 126
+}
+._49 {
+    width: 127
+}
+._4a {
+    width: 128
+}
+._4b {
+    width: 129
+}
+._4c {
+    width: 130
+}
+._4d {
+    width: 131
+}
+._4e {
+    width: 132
+}
+._4f {
+    width: 133
+}
+._4g {
+    width: 134
+}
+._4h {
+    width: 135
+}
+._4i {
+    width: 136
+}
+._4j {
+    width: 137
+}
+._4k {
+    width: 138
+}
+._4l {
+    width: 139
+}
+._4m {
+    width: 140
+}
+._4n {
+    width: 141
+}
+._4o {
+    width: 142
+}
+._4p {
+    width: 143
+}
+._4q {
+    width: 144
+}
+._4r {
+    width: 145
+}
+._4s {
+    width: 146
+}
+._4t {
+    width: 147
+}
+._4u {
+    width: 148
+}
+._4v {
+    width: 149
+}
+._50 {
+    width: 150
+}
+._51 {
+    width: 151
+}
+._52 {
+    width: 152
+}
+._53 {
+    width: 153
+}
+._54 {
+    width: 154
+}
+._55 {
+    width: 155
+}
+._56 {
+    width: 156
+}
+._57 {
+    width: 157
+}
+._58 {
+    width: 158
+}
+._59 {
+    width: 159
+}
+._5a {
+    width: 160
+}
+._5b {
+    width: 161
+}
+._5c {
+    width: 162
+}
+._5d {
+    width: 163
+}
+._5e {
+    width: 164
+}
+._5f {
+    width: 165
+}
+._5g {
+    width: 166
+}
+._5h {
+    width: 167
+}
+._5i {
+    width: 168
+}
+._5j {
+    width: 169
+}
+._5k {
+    width: 170
+}
+._5l {
+    width: 171
+}
+._5m {
+    width: 172
+}
+._5n {
+    width: 173
+}
+._5o {
+    width: 174
+}
+._5p {
+    width: 175
+}
+._5q {
+    width: 176
+}
+._5r {
+    width: 177
+}
+._5s {
+    width: 178
+}
+._5t {
+    width: 179
+}
+._5u {
+    width: 180
+}
+._5v {
+    width: 181
+}
+._60 {
+    width: 182
+}
+._61 {
+    width: 183
+}
+._62 {
+    width: 184
+}
+._63 {
+    width: 185
+}
+._64 {
+    width: 186
+}
+._65 {
+    width: 187
+}
+._66 {
+    width: 188
+}
+._67 {
+    width: 189
+}
+._68 {
+    width: 190
+}
+._69 {
+    width: 191
+}
+._6a {
+    width: 192
+}
+._6b {
+    width: 193
+}
+._6c {
+    width: 194
+}
+._6d {
+    width: 195
+}
+._6e {
+    width: 196
+}
+._6f {
+    width: 197
+}
+._6g {
+    width: 198
+}
+._6h {
+    width: 199
+}
+._6i {
+    width: 200
+}
+._6j {
+    width: 201
+}
+._6k {
+    width: 202
+}
+._6l {
+    width: 203
+}
+._6m {
+    width: 204
+}
+._6n {
+    width: 205
+}
+._6o {
+    width: 206
+}
+._6p {
+    width: 207
+}
+._6q {
+    width: 208
+}
+._6r {
+    width: 209
+}
+._6s {
+    width: 210
+}
+._6t {
+    width: 211
+}
+._6u {
+    width: 212
+}
+._6v {
+    width: 213
+}
+._70 {
+    width: 214
+}
+._71 {
+    width: 215
+}
+._72 {
+    width: 216
+}
+._73 {
+    width: 217
+}
+._74 {
+    width: 218
+}
+._75 {
+    width: 219
+}
+._76 {
+    width: 220
+}
+._77 {
+    width: 221
+}
+._78 {
+    width: 222
+}
+._79 {
+    width: 223
+}
+._7a {
+    width: 224
+}
+._7b {
+    width: 225
+}
+._7c {
+    width: 226
+}
+._7d {
+    width: 227
+}
+._7e {
+    width: 228
+}
+._7f {
+    width: 229
+}
+._7g {
+    width: 230
+}
+._7h {
+    width: 231
+}
+._7i {
+    width: 232
+}
+._7j {
+    width: 233
+}
+._7k {
+    width: 234
+}
+._7l {
+    width: 235
+}
+._7m {
+    width: 236
+}
+._7n {
+    width: 237
+}
+._7o {
+    width: 238
+}
+._7p {
+    width: 239
+}
+._7q {
+    width: 240
+}
+._7r {
+    width: 241
+}
+._7s {
+    width: 242
+}
+._7t {
+    width: 243
+}
+._7u {
+    width: 244
+}
+._7v {
+    width: 245
+}
+._80 {
+    width: 246
+}
+._81 {
+    width: 247
+}
+._82 {
+    width: 248
+}
+._83 {
+    width: 249
+}
+._84 {
+    width: 250
+}
+._85 {
+    width: 251
+}
+._86 {
+    width: 252
+}
+._87 {
+    width: 253
+}
+._88 {
+    width: 254
+}
+._89 {
+    width: 255
+}
+._8a {
+    width: 256
+}
+._8b {
+    width: 257
+}
+._8c {
+    width: 258
+}
+._8d {
+    width: 259
+}
+._8e {
+    width: 260
+}
+._8f {
+    width: 261
+}
+._8g {
+    width: 262
+}
+._8h {
+    width: 263
+}
+._8i {
+    width: 264
+}
+._8j {
+    width: 265
+}
+._8k {
+    width: 266
+}
+._8l {
+    width: 267
+}
+._8m {
+    width: 268
+}
+._8n {
+    width: 269
+}
+._8o {
+    width: 270
+}
+._8p {
+    width: 271
+}
+._8q {
+    width: 272
+}
+._8r {
+    width: 273
+}
+._8s {
+    width: 274
+}
+._8t {
+    width: 275
+}
+._8u {
+    width: 276
+}
+._8v {
+    width: 277
+}
+._90 {
+    width: 278
+}
+._91 {
+    width: 279
+}
+._92 {
+    width: 280
+}
+._93 {
+    width: 281
+}
+._94 {
+    width: 282
+}
+._95 {
+    width: 283
+}
+._96 {
+    width: 284
+}
+._97 {
+    width: 285
+}
+._98 {
+    width: 286
+}
+._99 {
+    width: 287
+}
+._9a {
+    width: 288
+}
+._9b {
+    width: 289
+}
+._9c {
+    width: 290
+}
+._9d {
+    width: 291
+}
+._9e {
+    width: 292
+}
+._9f {
+    width: 293
+}
+._9g {
+    width: 294
+}
+._9h {
+    width: 295
+}
+._9i {
+    width: 296
+}
+._9j {
+    width: 297
+}
+._9k {
+    width: 298
+}
+._9l {
+    width: 299
+}
+._9m {
+    width: 300
+}
+._9n {
+    width: 301
+}
+._9o {
+    width: 302
+}
+._9p {
+    width: 303
+}
+._9q {
+    width: 304
+}
+._9r {
+    width: 305
+}
+._9s {
+    width: 306
+}
+._9t {
+    width: 307
+}
+._9u {
+    width: 308
+}
+._9v {
+    width: 309
+}
+.a0 {
+    width: 310
+}
+.a1 {
+    width: 311
+}
+.a2 {
+    width: 312
+}
+.a3 {
+    width: 313
+}
+.a4 {
+    width: 314
+}
+.a5 {
+    width: 315
+}
+.a6 {
+    width: 316
+}
+.a7 {
+    width: 317
+}
+.a8 {
+    width: 318
+}
+.a9 {
+    width: 319
+}
+.aa {
+    width: 320
+}
+.ab {
+    width: 321
+}
+.ac {
+    width: 322
+}
+.ad {
+    width: 323
+}
+.ae {
+    width: 324
+}
+.af {
+    width: 325
+}
+.ag {
+    width: 326
+}
+.ah {
+    width: 327
+}
+.ai {
+    width: 328
+}
+.aj {
+    width: 329
+}
+.ak {
+    width: 330
+}
+.al {
+    width: 331
+}
+.am {
+    width: 332
+}
+.an {
+    width: 333
+}
+.ao {
+    width: 334
+}
+.ap {
+    width: 335
+}
+.aq {
+    width: 336
+}
+.ar {
+    width: 337
+}
+.as {
+    width: 338
+}
+.at {
+    width: 339
+}
+.au {
+    width: 340
+}
+.av {
+    width: 341
+}
+.b0 {
+    width: 342
+}
+.b1 {
+    width: 343
+}
+.b2 {
+    width: 344
+}
+.b3 {
+    width: 345
+}
+.b4 {
+    width: 346
+}
+.b5 {
+    width: 347
+}
+.b6 {
+    width: 348
+}
+.b7 {
+    width: 349
+}
+.b8 {
+    width: 350
+}
+.b9 {
+    width: 351
+}
+.ba {
+    width: 352
+}
+.bb {
+    width: 353
+}
+.bc {
+    width: 354
+}
+.bd {
+    width: 355
+}
+.be {
+    width: 356
+}
+.bf {
+    width: 357
+}
+.bg {
+    width: 358
+}
+.bh {
+    width: 359
+}
+.bi {
+    width: 360
+}
+.bj {
+    width: 361
+}
+.bk {
+    width: 362
+}
+.bl {
+    width: 363
+}
+.bm {
+    width: 364
+}
+.bn {
+    width: 365
+}
+.bo {
+    width: 366
+}
+.bp {
+    width: 367
+}
+.bq {
+    width: 368
+}
+.br {
+    width: 369
+}
+.bs {
+    width: 370
+}
+.bt {
+    width: 371
+}
+.bu {
+    width: 372
+}
+.bv {
+    width: 373
+}
+.c0 {
+    width: 374
+}
+.c1 {
+    width: 375
+}
+.c2 {
+    width: 376
+}
+.c3 {
+    width: 377
+}
+.c4 {
+    width: 378
+}
+.c5 {
+    width: 379
+}
+.c6 {
+    width: 380
+}
+.c7 {
+    width: 381
+}
+.c8 {
+    width: 382
+}
+.c9 {
+    width: 383
+}
+.ca {
+    width: 384
+}
+.cb {
+    width: 385
+}
+.cc {
+    width: 386
+}
+.cd {
+    width: 387
+}
+.ce {
+    width: 388
+}
+.cf {
+    width: 389
+}
+.cg {
+    width: 390
+}
+.ch {
+    width: 391
+}
+.ci {
+    width: 392
+}
+.cj {
+    width: 393
+}
+.ck {
+    width: 394
+}
+.cl {
+    width: 395
+}
+.cm {
+    width: 396
+}
+.cn {
+    width: 397
+}
+.co {
+    width: 398
+}
+.cp {
+    width: 399
+}
+.cq {
+    width: 400
+}
+.cr {
+    width: 401
+}
+.cs {
+    width: 402
+}
+.ct {
+    width: 403
+}
+.cu {
+    width: 404
+}
+.cv {
+    width: 405
+}
+.d0 {
+    width: 406
+}
+.d1 {
+    width: 407
+}
+.d2 {
+    width: 408
+}
+.d3 {
+    width: 409
+}
+.d4 {
+    width: 410
+}
+.d5 {
+    width: 411
+}
+.d6 {
+    width: 412
+}
+.d7 {
+    width: 413
+}
+.d8 {
+    width: 414
+}
+.d9 {
+    width: 415
+}
+.da {
+    width: 416
+}
+.db {
+    width: 417
+}
+.dc {
+    width: 418
+}
+.dd {
+    width: 419
+}
+.de {
+    width: 420
+}
+.df {
+    width: 421
+}
+.dg {
+    width: 422
+}
+.dh {
+    width: 423
+}
+.di {
+    width: 424
+}
+.dj {
+    width: 425
+}
+.dk {
+    width: 426
+}
+.dl {
+    width: 427
+}
+.dm {
+    width: 428
+}
+.dn {
+    width: 429
+}
+.do {
+    width: 430
+}
+.dp {
+    width: 431
+}
+.dq {
+    width: 432
+}
+.dr {
+    width: 433
+}
+.ds {
+    width: 434
+}
+.dt {
+    width: 435
+}
+.du {
+    width: 436
+}
+.dv {
+    width: 437
+}
+.e0 {
+    width: 438
+}
+.e1 {
+    width: 439
+}
+.e2 {
+    width: 440
+}
+.e3 {
+    width: 441
+}
+.e4 {
+    width: 442
+}
+.e5 {
+    width: 443
+}
+.e6 {
+    width: 444
+}
+.e7 {
+    width: 445
+}
+.e8 {
+    width: 446
+}
+.e9 {
+    width: 447
+}
+.ea {
+    width: 448
+}
+.eb {
+    width: 449
+}
+.ec {
+    width: 450
+}
+.ed {
+    width: 451
+}
+.ee {
+    width: 452
+}
+.ef {
+    width: 453
+}
+.eg {
+    width: 454
+}
+.eh {
+    width: 455
+}
+.ei {
+    width: 456
+}
+.ej {
+    width: 457
+}
+.ek {
+    width: 458
+}
+.el {
+    width: 459
+}
+.em {
+    width: 460
+}
+.en {
+    width: 461
+}
+.eo {
+    width: 462
+}
+.ep {
+    width: 463
+}
+.eq {
+    width: 464
+}
+.er {
+    width: 465
+}
+.es {
+    width: 466
+}
+.et {
+    width: 467
+}
+.eu {
+    width: 468
+}
+.ev {
+    width: 469
+}
+.f0 {
+    width: 470
+}
+.f1 {
+    width: 471
+}
+.f2 {
+    width: 472
+}
+.f3 {
+    width: 473
+}
+.f4 {
+    width: 474
+}
+.f5 {
+    width: 475
+}
+.f6 {
+    width: 476
+}
+.f7 {
+    width: 477
+}
+.f8 {
+    width: 478
+}
+.f9 {
+    width: 479
+}
+.fa {
+    width: 480
+}
+.fb {
+    width: 481
+}
+.fc {
+    width: 482
+}
+.fd {
+    width: 483
+}
+.fe {
+    width: 484
+}
+.ff {
+    width: 485
+}
+.fg {
+    width: 486
+}
+.fh {
+    width: 487
+}
+.fi {
+    width: 488
+}
+.fj {
+    width: 489
+}
+.fk {
+    width: 490
+}
+.fl {
+    width: 491
+}
+.fm {
+    width: 492
+}
+.fn {
+    width: 493
+}
+.fo {
+    width: 494
+}
+.fp {
+    width: 495
+}
+.fq {
+    width: 496
+}
+.fr {
+    width: 497
+}
+.fs {
+    width: 498
+}
+.ft {
+    width: 499
+}
+.fu {
+    width: 500
+}
+.fv {
+    width: 501
+}
+.g0 {
+    width: 502
+}
+.g1 {
+    width: 503
+}
+.g2 {
+    width: 504
+}
+.g3 {
+    width: 505
+}
+.g4 {
+    width: 506
+}
+.g5 {
+    width: 507
+}
+.g6 {
+    width: 508
+}
+.g7 {
+    width: 509
+}
+.g8 {
+    width: 510
+}
+.g9 {
+    width: 511
+}
+.ga {
+    width: 512
+}
+.gb {
+    width: 513
+}
+.gc {
+    width: 514
+}
+.gd {
+    width: 515
+}
+.ge {
+    width: 516
+}
+.gf {
+    width: 517
+}
+.gg {
+    width: 518
+}
+.gh {
+    width: 519
+}
+.gi {
+    width: 520
+}
+.gj {
+    width: 521
+}
+.gk {
+    width: 522
+}
+.gl {
+    width: 523
+}
+.gm {
+    width: 524
+}
+.gn {
+    width: 525
+}
+.go {
+    width: 526
+}
+.gp {
+    width: 527
+}
+.gq {
+    width: 528
+}
+.gr {
+    width: 529
+}
+.gs {
+    width: 530
+}
+.gt {
+    width: 531
+}
+.gu {
+    width: 532
+}
+.gv {
+    width: 533
+}
+.h0 {
+    width: 534
+}
+.h1 {
+    width: 535
+}
+.h2 {
+    width: 536
+}
+.h3 {
+    width: 537
+}
+.h4 {
+    width: 538
+}
+.h5 {
+    width: 539
+}
+.h6 {
+    width: 540
+}
+.h7 {
+    width: 541
+}
+.h8 {
+    width: 542
+}
+.h9 {
+    width: 543
+}
+.ha {
+    width: 544
+}
+.hb {
+    width: 545
+}
+.hc {
+    width: 546
+}
+.hd {
+    width: 547
+}
+.he {
+    width: 548
+}
+.hf {
+    width: 549
+}
+.hg {
+    width: 550
+}
+.hh {
+    width: 551
+}
+.hi {
+    width: 552
+}
+.hj {
+    width: 553
+}
+.hk {
+    width: 554
+}
+.hl {
+    width: 555
+}
+.hm {
+    width: 556
+}
+.hn {
+    width: 557
+}
+.ho {
+    width: 558
+}
+.hp {
+    width: 559
+}
+.hq {
+    width: 560
+}
+.hr {
+    width: 561
+}
+.hs {
+    width: 562
+}
+.ht {
+    width: 563
+}
+.hu {
+    width: 564
+}
+.hv {
+    width: 565
+}
+.i0 {
+    width: 566
+}
+.i1 {
+    width: 567
+}
+.i2 {
+    width: 568
+}
+.i3 {
+    width: 569
+}
+.i4 {
+    width: 570
+}
+.i5 {
+    width: 571
+}
+.i6 {
+    width: 572
+}
+.i7 {
+    width: 573
+}
+.i8 {
+    width: 574
+}
+.i9 {
+    width: 575
+}
+.ia {
+    width: 576
+}
+.ib {
+    width: 577
+}
+.ic {
+    width: 578
+}
+.id {
+    width: 579
+}
+.ie {
+    width: 580
+}
+.if {
+    width: 581
+}
+.ig {
+    width: 582
+}
+.ih {
+    width: 583
+}
+.ii {
+    width: 584
+}
+.ij {
+    width: 585
+}
+.ik {
+    width: 586
+}
+.il {
+    width: 587
+}
+.im {
+    width: 588
+}
+.in {
+    width: 589
+}
+.io {
+    width: 590
+}
+.ip {
+    width: 591
+}
+.iq {
+    width: 592
+}
+.ir {
+    width: 593
+}
+.is {
+    width: 594
+}
+.it {
+    width: 595
+}
+.iu {
+    width: 596
+}
+.iv {
+    width: 597
+}
+.j0 {
+    width: 598
+}
+.j1 {
+    width: 599
+}
+.j2 {
+    width: 600
+}
+.j3 {
+    width: 601
+}
+.j4 {
+    width: 602
+}
+.j5 {
+    width: 603
+}
+.j6 {
+    width: 604
+}
+.j7 {
+    width: 605
+}
+.j8 {
+    width: 606
+}
+.j9 {
+    width: 607
+}
+.ja {
+    width: 608
+}
+.jb {
+    width: 609
+}
+.jc {
+    width: 610
+}
+.jd {
+    width: 611
+}
+.je {
+    width: 612
+}
+.jf {
+    width: 613
+}
+.jg {
+    width: 614
+}
+.jh {
+    width: 615
+}
+.ji {
+    width: 616
+}
+.jj {
+    width: 617
+}
+.jk {
+    width: 618
+}
+.jl {
+    width: 619
+}
+.jm {
+    width: 620
+}
+.jn {
+    width: 621
+}
+.jo {
+    width: 622
+}
+.jp {
+    width: 623
+}
+.jq {
+    width: 624
+}
+.jr {
+    width: 625
+}
+.js {
+    width: 626
+}
+.jt {
+    width: 627
+}
+.ju {
+    width: 628
+}
+.jv {
+    width: 629
+}
+.k0 {
+    width: 630
+}
+.k1 {
+    width: 631
+}
+.k2 {
+    width: 632
+}
+.k3 {
+    width: 633
+}
+.k4 {
+    width: 634
+}
+.k5 {
+    width: 635
+}
+.k6 {
+    width: 636
+}
+.k7 {
+    width: 637
+}
+.k8 {
+    width: 638
+}
+.k9 {
+    width: 639
+}
+.ka {
+    width: 640
+}
+.kb {
+    width: 641
+}
+.kc {
+    width: 642
+}
+.kd {
+    width: 643
+}
+.ke {
+    width: 644
+}
+.kf {
+    width: 645
+}
+.kg {
+    width: 646
+}
+.kh {
+    width: 647
+}
+.ki {
+    width: 648
+}
+.kj {
+    width: 649
+}
+.kk {
+    width: 650
+}
+.kl {
+    width: 651
+}
+.km {
+    width: 652
+}
+.kn {
+    width: 653
+}
+.ko {
+    width: 654
+}
+.kp {
+    width: 655
+}
+.kq {
+    width: 656
+}
+.kr {
+    width: 657
+}
+.ks {
+    width: 658
+}
+.kt {
+    width: 659
+}
+.ku {
+    width: 660
+}
+.kv {
+    width: 661
+}
+.l0 {
+    width: 662
+}
+.l1 {
+    width: 663
+}
+.l2 {
+    width: 664
+}
+.l3 {
+    width: 665
+}
+.l4 {
+    width: 666
+}
+.l5 {
+    width: 667
+}
+.l6 {
+    width: 668
+}
+.l7 {
+    width: 669
+}
+.l8 {
+    width: 670
+}
+.l9 {
+    width: 671
+}
+.la {
+    width: 672
+}
+.lb {
+    width: 673
+}
+.lc {
+    width: 674
+}
+.ld {
+    width: 675
+}
+.le {
+    width: 676
+}
+.lf {
+    width: 677
+}
+.lg {
+    width: 678
+}
+.lh {
+    width: 679
+}
+.li {
+    width: 680
+}
+.lj {
+    width: 681
+}
+.lk {
+    width: 682
+}
+.ll {
+    width: 683
+}
+.lm {
+    width: 684
+}
+.ln {
+    width: 685
+}
+.lo {
+    width: 686
+}
+.lp {
+    width: 687
+}
+.lq {
+    width: 688
+}
+.lr {
+    width: 689
+}
+.ls {
+    width: 690
+}
+.lt {
+    width: 691
+}
+.lu {
+    width: 692
+}
+.lv {
+    width: 693
+}
+.m0 {
+    width: 694
+}
+.m1 {
+    width: 695
+}
+.m2 {
+    width: 696
+}
+.m3 {
+    width: 697
+}
+.m4 {
+    width: 698
+}
+.m5 {
+    width: 699
+}
+.m6 {
+    width: 700
+}
+.m7 {
+    width: 701
+}
+.m8 {
+    width: 702
+}
+.m9 {
+    width: 703
+}
+.ma {
+    width: 704
+}
+.mb {
+    width: 705
+}
+.mc {
+    width: 706
+}
+.md {
+    width: 707
+}
+.me {
+    width: 708
+}
+.mf {
+    width: 709
+}
+.mg {
+    width: 710
+}
+.mh {
+    width: 711
+}
+.mi {
+    width: 712
+}
+.mj {
+    width: 713
+}
+.mk {
+    width: 714
+}
+.ml {
+    width: 715
+}
+.mm {
+    width: 716
+}
+.mn {
+    width: 717
+}
+.mo {
+    width: 718
+}
+.mp {
+    width: 719
+}
+.mq {
+    width: 720
+}
+.mr {
+    width: 721
+}
+.ms {
+    width: 722
+}
+.mt {
+    width: 723
+}
+.mu {
+    width: 724
+}
+.mv {
+    width: 725
+}
+.n0 {
+    width: 726
+}
+.n1 {
+    width: 727
+}
+.n2 {
+    width: 728
+}
+.n3 {
+    width: 729
+}
+.n4 {
+    width: 730
+}
+.n5 {
+    width: 731
+}
+.n6 {
+    width: 732
+}
+.n7 {
+    width: 733
+}
+.n8 {
+    width: 734
+}
+.n9 {
+    width: 735
+}
+.na {
+    width: 736
+}
+.nb {
+    width: 737
+}
+.nc {
+    width: 738
+}
+.nd {
+    width: 739
+}
+.ne {
+    width: 740
+}
+.nf {
+    width: 741
+}
+.ng {
+    width: 742
+}
+.nh {
+    width: 743
+}
+.ni {
+    width: 744
+}
+.nj {
+    width: 745
+}
+.nk {
+    width: 746
+}
+.nl {
+    width: 747
+}
+.nm {
+    width: 748
+}
+.nn {
+    width: 749
+}
+.no {
+    width: 750
+}
+.np {
+    width: 751
+}
+.nq {
+    width: 752
+}
+.nr {
+    width: 753
+}
+.ns {
+    width: 754
+}
+.nt {
+    width: 755
+}
+.nu {
+    width: 756
+}
+.nv {
+    width: 757
+}
+.o0 {
+    width: 758
+}
+.o1 {
+    width: 759
+}
+.o2 {
+    width: 760
+}
+.o3 {
+    width: 761
+}
+.o4 {
+    width: 762
+}
+.o5 {
+    width: 763
+}
+.o6 {
+    width: 764
+}
+.o7 {
+    width: 765
+}
+.o8 {
+    width: 766
+}
+.o9 {
+    width: 767
+}
+.oa {
+    width: 768
+}
+.ob {
+    width: 769
+}
+.oc {
+    width: 770
+}
+.od {
+    width: 771
+}
+.oe {
+    width: 772
+}
+.of {
+    width: 773
+}
+.og {
+    width: 774
+}
+.oh {
+    width: 775
+}
+.oi {
+    width: 776
+}
+.oj {
+    width: 777
+}
+.ok {
+    width: 778
+}
+.ol {
+    width: 779
+}
+.om {
+    width: 780
+}
+.on {
+    width: 781
+}
+.oo {
+    width: 782
+}
+.op {
+    width: 783
+}
+.oq {
+    width: 784
+}
+.or {
+    width: 785
+}
+.os {
+    width: 786
+}
+.ot {
+    width: 787
+}
+.ou {
+    width: 788
+}
+.ov {
+    width: 789
+}
+.p0 {
+    width: 790
+}
+.p1 {
+    width: 791
+}
+.p2 {
+    width: 792
+}
+.p3 {
+    width: 793
+}
+.p4 {
+    width: 794
+}
+.p5 {
+    width: 795
+}
+.p6 {
+    width: 796
+}
+.p7 {
+    width: 797
+}
+.p8 {
+    width: 798
+}
+.p9 {
+    width: 799
+}
+.pa {
+    width: 800
+}
+.pb {
+    width: 801
+}
+.pc {
+    width: 802
+}
+.pd {
+    width: 803
+}
+.pe {
+    width: 804
+}
+.pf {
+    width: 805
+}
+.pg {
+    width: 806
+}
+.ph {
+    width: 807
+}
+.pi {
+    width: 808
+}
+.pj {
+    width: 809
+}
+.pk {
+    width: 810
+}
+.pl {
+    width: 811
+}
+.pm {
+    width: 812
+}
+.pn {
+    width: 813
+}
+.po {
+    width: 814
+}
+.pp {
+    width: 815
+}
+.pq {
+    width: 816
+}
+.pr {
+    width: 817
+}
+.ps {
+    width: 818
+}
+.pt {
+    width: 819
+}
+.pu {
+    width: 820
+}
+.pv {
+    width: 821
+}
+.q0 {
+    width: 822
+}
+.q1 {
+    width: 823
+}
+.q2 {
+    width: 824
+}
+.q3 {
+    width: 825
+}
+.q4 {
+    width: 826
+}
+.q5 {
+    width: 827
+}
+.q6 {
+    width: 828
+}
+.q7 {
+    width: 829
+}
+.q8 {
+    width: 830
+}
+.q9 {
+    width: 831
+}
+.qa {
+    width: 832
+}
+.qb {
+    width: 833
+}
+.qc {
+    width: 834
+}
+.qd {
+    width: 835
+}
+.qe {
+    width: 836
+}
+.qf {
+    width: 837
+}
+.qg {
+    width: 838
+}
+.qh {
+    width: 839
+}
+.qi {
+    width: 840
+}
+.qj {
+    width: 841
+}
+.qk {
+    width: 842
+}
+.ql {
+    width: 843
+}
+.qm {
+    width: 844
+}
+.qn {
+    width: 845
+}
+.qo {
+    width: 846
+}
+.qp {
+    width: 847
+}
+.qq {
+    width: 848
+}
+.qr {
+    width: 849
+}
+.qs {
+    width: 850
+}
+.qt {
+    width: 851
+}
+.qu {
+    width: 852
+}
+.qv {
+    width: 853
+}
+.r0 {
+    width: 854
+}
+.r1 {
+    width: 855
+}
+.r2 {
+    width: 856
+}
+.r3 {
+    width: 857
+}
+.r4 {
+    width: 858
+}
+.r5 {
+    width: 859
+}
+.r6 {
+    width: 860
+}
+.r7 {
+    width: 861
+}
+.r8 {
+    width: 862
+}
+.r9 {
+    width: 863
+}
+.ra {
+    width: 864
+}
+.rb {
+    width: 865
+}
+.rc {
+    width: 866
+}
+.rd {
+    width: 867
+}
+.re {
+    width: 868
+}
+.rf {
+    width: 869
+}
+.rg {
+    width: 870
+}
+.rh {
+    width: 871
+}
+.ri {
+    width: 872
+}
+.rj {
+    width: 873
+}
+.rk {
+    width: 874
+}
+.rl {
+    width: 875
+}
+.rm {
+    width: 876
+}
+.rn {
+    width: 877
+}
+.ro {
+    width: 878
+}
+.rp {
+    width: 879
+}
+.rq {
+    width: 880
+}
+.rr {
+    width: 881
+}
+.rs {
+    width: 882
+}
+.rt {
+    width: 883
+}
+.ru {
+    width: 884
+}
+.rv {
+    width: 885
+}
+.s0 {
+    width: 886
+}
+.s1 {
+    width: 887
+}
+.s2 {
+    width: 888
+}
+.s3 {
+    width: 889
+}
+.s4 {
+    width: 890
+}
+.s5 {
+    width: 891
+}
+.s6 {
+    width: 892
+}
+.s7 {
+    width: 893
+}
+.s8 {
+    width: 894
+}
+.s9 {
+    width: 895
+}
+.sa {
+    width: 896
+}
+.sb {
+    width: 897
+}
+.sc {
+    width: 898
+}
+.sd {
+    width: 899
+}
+.se {
+    width: 900
+}
+.sf {
+    width: 901
+}
+.sg {
+    width: 902
+}
+.sh {
+    width: 903
+}
+.si {
+    width: 904
+}
+.sj {
+    width: 905
+}
+.sk {
+    width: 906
+}
+.sl {
+    width: 907
+}
+.sm {
+    width: 908
+}
+.sn {
+    width: 909
+}
+.so {
+    width: 910
+}
+.sp {
+    width: 911
+}
+.sq {
+    width: 912
+}
+.sr {
+    width: 913
+}
+.ss {
+    width: 914
+}
+.st {
+    width: 915
+}
+.su {
+    width: 916
+}
+.sv {
+    width: 917
+}
+.t0 {
+    width: 918
+}
+.t1 {
+    width: 919
+}
+.t2 {
+    width: 920
+}
+.t3 {
+    width: 921
+}
+.t4 {
+    width: 922
+}
+.t5 {
+    width: 923
+}
+.t6 {
+    width: 924
+}
+.t7 {
+    width: 925
+}
+.t8 {
+    width: 926
+}
+.t9 {
+    width: 927
+}
+.ta {
+    width: 928
+}
+.tb {
+    width: 929
+}
+.tc {
+    width: 930
+}
+.td {
+    width: 931
+}
+.te {
+    width: 932
+}
+.tf {
+    width: 933
+}
+.tg {
+    width: 934
+}
+.th {
+    width: 935
+}
+.ti {
+    width: 936
+}
+.tj {
+    width: 937
+}
+.tk {
+    width: 938
+}
+.tl {
+    width: 939
+}
+.tm {
+    width: 940
+}
+.tn {
+    width: 941
+}
+.to {
+    width: 942
+}
+.tp {
+    width: 943
+}
+.tq {
+    width: 944
+}
+.tr {
+    width: 945
+}
+.ts {
+    width: 946
+}
+.tt {
+    width: 947
+}
+.tu {
+    width: 948
+}
+.tv {
+    width: 949
+}
+.u0 {
+    width: 950
+}
+.u1 {
+    width: 951
+}
+.u2 {
+    width: 952
+}
+.u3 {
+    width: 953
+}
+.u4 {
+    width: 954
+}
+.u5 {
+    width: 955
+}
+.u6 {
+    width: 956
+}
+.u7 {
+    width: 957
+}
+.u8 {
+    width: 958
+}
+.u9 {
+    width: 959
+}
+.ua {
+    width: 960
+}
+.ub {
+    width: 961
+}
+.uc {
+    width: 962
+}
+.ud {
+    width: 963
+}
+.ue {
+    width: 964
+}
+.uf {
+    width: 965
+}
+.ug {
+    width: 966
+}
+.uh {
+    width: 967
+}
+.ui {
+    width: 968
+}
+.uj {
+    width: 969
+}
+.uk {
+    width: 970
+}
+.ul {
+    width: 971
+}
+.um {
+    width: 972
+}
+.un {
+    width: 973
+}
+.uo {
+    width: 974
+}
+.up {
+    width: 975
+}
+.uq {
+    width: 976
+}
+.ur {
+    width: 977
+}
+.us {
+    width: 978
+}
+.ut {
+    width: 979
+}
+.uu {
+    width: 980
+}
+.uv {
+    width: 981
+}
+.v0 {
+    width: 982
+}
+.v1 {
+    width: 983
+}
+.v2 {
+    width: 984
+}
+.v3 {
+    width: 985
+}
+.v4 {
+    width: 986
+}
+.v5 {
+    width: 987
+}
+.v6 {
+    width: 988
+}
+.v7 {
+    width: 989
+}
+.v8 {
+    width: 990
+}
+.v9 {
+    width: 991
+}
+.va {
+    width: 992
+}
+.vb {
+    width: 993
+}
+.vc {
+    width: 994
+}
+.vd {
+    width: 995
+}
+.ve {
+    width: 996
+}
+.vf {
+    width: 997
+}
+.vg {
+    width: 998
+}
+.vh {
+    width: 999
+}"
+`;
