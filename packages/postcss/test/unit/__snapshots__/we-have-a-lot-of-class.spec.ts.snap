@@ -1,6 +1,6 @@
 // Vitest Snapshot v1
 
-exports[`a lot of classes > happy case 1`] = `
+exports[`a lot of classes > default 1`] = `
 ".a {
     width: 0
 }
