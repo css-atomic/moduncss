@@ -21,10 +21,8 @@ export class AtomicCSSCore {
         .filter((node): node is postcss.Rule => node.type === 'rule')[0]
         .selector.split(/::|:/)
 
-      // create a hash from the declaration + context
       const key = createRule(decl, pseudos.join(''), contextAtRules).toString()
 
-      // if we've not seen this declaration in this context before...
       if (!this.rules.has(key)) {
         const shortClassName = (declId++).toString(32)
         const newClassName = Number.isInteger(+shortClassName[0]) ? `_${shortClassName}` : shortClassName
