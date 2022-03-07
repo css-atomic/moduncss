@@ -9,7 +9,9 @@
   "license": "ISC",
   "workspaces": [
     "packages/vite",
-    "packages/postcss"
+    "packages/postcss",
+    "packages/next",
+    "packages/webpack"
   ],
   "devDependencies": {
     "@types/node": "^17.0.21",
