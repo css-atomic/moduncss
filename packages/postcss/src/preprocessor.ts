@@ -1,7 +1,6 @@
 import * as postcss from 'postcss'
 import parseSides from 'parse-css-sides'
 import parseFont from 'parse-css-font'
-import isEqual from 'lodash.isequal'
 import parseSelector from 'postcss-selector-parser'
 import { getContext } from './utils'
 import resolveProp from 'postcss-resolve-prop'
@@ -42,6 +41,8 @@ export class AtomicPreprocessor {
         }))
       }
     })
+
+    // TODO: this should implement by another way since our atomic is global
     css.walkRules(rule => {
       const resolvedDecls: postcss.Declaration[] = []
       rule.walkDecls(decl => {
