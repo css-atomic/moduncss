@@ -2,11 +2,10 @@ import * as path from 'path'
 import postcss from 'postcss'
 import replaceClasses from 'replace-classes'
 import { expect } from 'vitest'
+import plug from '@/index'
+import { Browser, Page } from 'playwright-core'
 
-import plug from '../../../../src'
-import { Browser } from 'playwright-core'
-
-const getComputedStyles = (page) => page.evaluate(
+const getComputedStyles = (page: Page) => page.evaluate(
   function getPhantomComputedStyles() {
     return [].slice.call(document.body.getElementsByTagName('*')).map(function getTagComputedStyles(element) {
       return window.getComputedStyle(element)
@@ -22,12 +21,17 @@ export default (browser: Browser, filePath: string) => async (done) => {
   await page.goto(src)
   const originalComputedStyles = await getComputedStyles(page)
 
+  const globalRules = new Map<string, string>()
+  const globalAtomic = new Map<string, string[]>()
+
   let atomicMap
   const atomisedCSS = await postcss([plug({
     onResult: json => {
       atomicMap = Object.assign({}, json)
     },
-  })]).process(src.match(/<style>([\s\S]*)<\/style>/)[1])
+    globalAtomic,
+    globalRules,
+  })]).process(src.match(/<style>([\s\S]*)<\/style>/)?.[1] || '')
 
   const stringifiedAtomicMap = Object.keys(atomicMap).reduce((map, className) =>
       Object.assign(map, {

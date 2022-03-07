@@ -12,6 +12,7 @@ export class AtomicCSSCore {
 
   rules = new Map<string, string>()
   atomicMap = new Map<string, Array<string>>()
+  private internalAtomicMap = new Map<string, Array<string>>()
 
   process(css: postcss.Root) {
     css.walkDecls(decl => {
@@ -37,6 +38,7 @@ export class AtomicCSSCore {
 
       const rules: string[] = this.atomicMap.get(mapClassName) || []
       this.atomicMap.set(mapClassName, rules.concat(this.rules[key]))
+      this.internalAtomicMap.set(mapClassName, rules.concat(this.rules[key]))
     })
   }
 
@@ -87,7 +89,7 @@ export class AtomicCSSCore {
   getClassnameMap() {
     const result: Record<string, string> = {}
 
-    this.atomicMap.forEach((atomics, originalClassname) => {
+    this.internalAtomicMap.forEach((atomics, originalClassname) => {
       result[originalClassname] = atomics.join(' ')
     })
     return result
