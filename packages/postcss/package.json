@@ -18,12 +18,11 @@
     "parse-css-sides": "^3.0.1",
     "postcss": "^8.4.7",
     "postcss-resolve-prop": "^3.1.0",
-    "postcss-selector-parser": "^6.0.9",
-    "pretty-bytes": "^6.0.0",
-    "shorthash": "^0.0.2"
+    "postcss-selector-parser": "^6.0.9"
   },
   "devDependencies": {
     "@types/lodash.isequal": "^4.5.5",
+    "c8": "^7.11.0",
     "playwright-core": "^1.19.2",
     "replace-classes": "^1.0.0",
     "vitest": "^0.5.9"
